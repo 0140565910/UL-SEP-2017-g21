@@ -1,0 +1,24 @@
+/*
+* @author miguel
+* @date Wed Oct 11 14:27:49 CEST 2017
+*/
+
+package lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.datatypes {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+Concept Model {
+
+	Primary Types {
+   
+			datatype dtAMessage {
+				attribute value : ptString
+			}
+		}
+}
+}

@@ -1,0 +1,13 @@
+/*
+@author miguel
+@date Wed Oct 11 15:03:39 CEST 2017
+*/
+
+
+@@view cm-lv-01
+@model Concept
+@level Local
+@sublevel Primary Datatype
+@number 1
+@description "shows the dtAMessage primary datatype"
+@caption ""

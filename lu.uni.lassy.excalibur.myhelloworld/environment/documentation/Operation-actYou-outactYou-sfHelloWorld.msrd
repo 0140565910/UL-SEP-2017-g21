@@ -1,0 +1,28 @@
+/*
+@author miguel
+@date Wed Oct 11 15:14:26 CEST 2017
+*/
+
+
+@@Operation
+lu.uni.lassy.excalibur.myhelloworld.environment.actYou.outactYou.sfHelloWorld
+@description "
+ "
+//preProtocol descriptions
+@preP
+" "
+@endPreP
+//preFunctional descriptions
+@preF
+" "
+@endPreF
+//postFunctional descriptions
+@postF 
+" "
+@endPostF
+//postProtocol descriptions
+@postP 
+" "
+@endPostP
+//example
+@example" "

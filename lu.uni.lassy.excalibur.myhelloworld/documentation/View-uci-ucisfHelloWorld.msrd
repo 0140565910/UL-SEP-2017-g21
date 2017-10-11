@@ -1,0 +1,10 @@
+/*
+@author miguel
+@date Wed Oct 11 14:40:13 CEST 2017
+*/
+
+
+@@view uci-ucisfHelloWorld
+@instance Use-Case usecases.ucisfHelloWorld.ucisfHelloWorld 
+@description "test"
+@caption ""

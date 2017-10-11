@@ -1,0 +1,16 @@
+/*
+@author miguel
+@date Wed Oct 11 14:37:40 CEST 2017
+*/
+
+
+@@Primary Type Class lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.classes.ctState
+@description ""
+@attribute
+lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.classes.ctState.vpStarted
+""
+@endAttributes
+@operation
+lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.classes.ctState.init
+""
+@endOperations

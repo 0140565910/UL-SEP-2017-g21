@@ -1,0 +1,13 @@
+package usecases.ucisfHelloWorld {
+	import lu.uni.lassy.excalibur.myhelloworld.usecases
+
+	Use Case Model {
+
+		use case instance ucisfHelloWorld : subfunction sfHelloWorld{
+			actors {
+				MiguelAlvesRodrigues : lu.uni.lassy.excalibur.myhelloworld.environment.actYou
+			}
+			ieHelloWorld("Hello You") returned to MiguelAlvesRodrigues
+		}
+	}
+}
